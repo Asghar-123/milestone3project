@@ -1,4 +1,4 @@
-//productdetail page
+/* eslint-disable react/no-unescaped-entities */
 import Footer from "@/components/footer";
 import Navbar3 from "@/components/navbar3";
 import Product3 from "@/components/product3";
